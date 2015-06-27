@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">BlockPhoneCall</string>
+
+    <!-- Action bar -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Label -->
+    <string name="lbl_block_call">Block Calls</string>
+
+</resources>
